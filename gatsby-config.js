@@ -7,4 +7,5 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [],
-}
+};
+require("dotenv").config();
